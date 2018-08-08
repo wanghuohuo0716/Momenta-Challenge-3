@@ -1,6 +1,0 @@
-<launch>
-  <node pkg="turtlebot3_wanghuohuo" type="talker" name="talker" output="screen">
-    <param name="ball_x" value="1"/>
-		<param name="ball_y" value="0.8695"/>
-  </node>
-</launch>
